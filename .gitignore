@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+test34
+/static
+.DS_Store
